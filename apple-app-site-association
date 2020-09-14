@@ -2,7 +2,7 @@
     "applinks": {
         "apps": [],
         "details": [{
-            "appID": "teamId.com.bundleId.of.your.app",
+            "appID": "8ZF9K8ZRF7.com.broniboy.client.menuClip",
             "paths": ["/path-for-redirectionl/*"]
         }]
     }
